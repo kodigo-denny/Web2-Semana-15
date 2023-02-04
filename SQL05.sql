@@ -1,0 +1,1 @@
+INSERT INTO demo VALUES(carreras, 'ABC', 'Denny', 'Herrera')
